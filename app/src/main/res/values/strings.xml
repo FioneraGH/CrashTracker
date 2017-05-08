@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrashTracker</string>
+    <string name="crash_produce">创造崩溃</string>
+</resources>

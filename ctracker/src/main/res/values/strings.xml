@@ -1,0 +1,4 @@
+<resources>
+    <string name="crash_fallback_title">崩溃处理</string>
+    <string name="crash_finish">关闭</string>
+</resources>
